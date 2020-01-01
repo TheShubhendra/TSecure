@@ -4,3 +4,4 @@ while [ $pass != Sk ]
 do   echo -e '\e[1;31m'  "Password is wrong"
      echo -e '\e[1;33m'  "Please Enter Your passw>
      read pass
+done
